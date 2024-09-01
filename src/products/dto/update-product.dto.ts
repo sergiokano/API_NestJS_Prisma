@@ -1,6 +1,4 @@
-import { PartialType } from '@nestjs/mapped-types';
 import { CreateProductDto } from './create-product.dto';
 
-// export class UpdateProductDto extends PartialType(CreateProductDto) {}
-
-export class UpdateProductDto {}
+// Partial is a utility type that makes all properties of the type optional.
+type UpdateProductDto = Partial<CreateProductDto>;
