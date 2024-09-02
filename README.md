@@ -15,6 +15,7 @@ This document provides a comprehensive guide to installing, running, and underst
 - **[Prisma](https://www.prisma.io/)**: Next-generation ORM for Node.js and TypeScript, making database access easy with an auto-generated query builder.
 - **[TypeScript](https://www.typescriptlang.org/)**: A typed superset of JavaScript that compiles to plain JavaScript.
 - **[Swagger](https://swagger.io/)**: An open-source software framework backed by a large ecosystem of tools that helps developers design, build, document, and consume RESTful web services.
+![image](https://github.com/user-attachments/assets/400c820d-c17b-4daa-8eb7-2715f5b7e68e)
 
 ## Features
 
