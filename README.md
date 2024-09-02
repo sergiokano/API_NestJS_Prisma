@@ -35,6 +35,29 @@ Ensure you have Node.js (>= 12.x) and npm installed on your system. You can down
 
 ```bash
 git clone <repository-url>
-=======
-# API_NestJS_Prisma
->>>>>>> 0278c29 (first commit)
+```
+
+2. Navigate to the project directory:
+
+```bash
+cd <project-name>
+```
+
+3. Install the dependencies:
+   
+```bash
+npm install
+```
+
+4. Running the project
+- Development Mode:
+   
+```bash
+npm run start:dev
+```
+
+### API Documentation
+After starting the application, the API documentation can be accessed at /api endpoint. This documentation provides a detailed overview of all the available API endpoints, their request parameters, and response formats. Is possible to try the endpoints from there.
+```bash
+http://localhost:4000/api
+```
